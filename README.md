@@ -13,8 +13,8 @@
     <div class="nav-button">Finland</div>
 </div>
 
-<h1>U.S. beats Canada in 4 Nations Face-Off</h1>
-<h2>Rematch set for Thursday</h2>
+<h1>Toussaint Fancher</h1>
+<h2>Portfolio</h2>
 
 
 <p>For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.For the first time in 14 years, the U.S. men's national hockey team beat their rivals to the north.</p>
