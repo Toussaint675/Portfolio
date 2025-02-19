@@ -10,7 +10,7 @@
     <div class="nav-button"><a href="#usa">U.S.A.</a></div>
     <div class="nav-button"><a href="teams/">Canada</a></div>
     <div class="nav-button"><a href="https://nhl.com">Sweden</a></div>
-    <div class="nav-button">Finland</div>
+    <div class="nav-button"><a href="teams/">Finland</div>
 </div>
 
 <h1>Toussaint Fancher</h1>
