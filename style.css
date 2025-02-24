@@ -11,7 +11,6 @@ p {
     font-size: 1.5em;
 }
 
-/*phone*/
 @media (orientation: portrait) {
     #content {
         width: 100%;
