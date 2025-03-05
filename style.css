@@ -52,3 +52,8 @@ img {
     display: block;
     margin: auto
 }
+/*responsive design*/
+#content {
+    width: 90%; 
+    margin:auto;
+}
